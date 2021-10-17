@@ -1,4 +1,4 @@
-# Deep Learning Methods on EEG Recordings to Predict Epileptic Seizures
+# Deep Learning Methods on EEG Recordings to Predict Epileptic Seizures 
 
 Epilepsy is a neurological disorder that disturbs the brain and causes abnormal brain activity. It results in unusual behavior, sensations, and in some cases loss of awareness.
 
