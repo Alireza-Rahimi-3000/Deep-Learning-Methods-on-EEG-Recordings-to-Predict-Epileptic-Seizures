@@ -6,4 +6,4 @@ In this regard, if the seizures could be identified in their earlier stages then
 
 In this project, we try to detect epilepsy using the EEG Signal Recordings and classifying them using pre-trained CNN models between preictal and interictal classes. For this, we are advocating the use of the American Society for Epilepsy Dataset. The focus is on detecting the epilepsy pattern from the EEG recordings in an accurate and timely manner.     
 
-The data was in .mat format which needs to be converted to images in order to implement CNN. Fourier Transform was done to convert them into images of frequency. Then resnet50, inception_resnetv2, and effcientnetb3 were implemented. The maximum accuracy achieved is 85% which was on efficientnetb3.        
+The data was in .mat format which needs to be converted to images in order to implement CNN. Fourier Transform was done to convert them into images of frequency. Then resnet50, inception_resnetv2, and effcientnetb3 were implemented. The maximum accuracy achieved is 85% which was on efficientnetb3.          
