@@ -9,3 +9,4 @@ In this project, we try to detect epilepsy using the EEG Signal Recordings and c
 The data was in .mat format which needs to be converted to images in order to implement CNN. Fourier Transform was done to convert them into images of frequency. Then resnet50, inception_resnetv2, and effcientnetb3 were implemented. The maximum accuracy achieved is 85% which was on efficientnetb3.          
  
  
+ 
