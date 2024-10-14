@@ -55,16 +55,15 @@ The model was validated using new EEG recordings to ensure its generalizability.
 
 
 
-Expected Outcomes:
-The project aims to deliver a deep learning model capable of accurately predicting epileptic seizures based on EEG data, offering a potential tool for early warning systems. By using the American Society for Epilepsy Dataset, we expect to achieve high accuracy and robustness in seizure prediction, supported by strong numerical analysis results. The model's performance will be presented through key metrics like sensitivity and specificity, as well as confusion matrices, providing a clear picture of its predictive capabilities. This could lead to significant advancements in seizure management, providing patients and caregivers with valuable insights for better-preempting seizures. Additionally, the project will contribute to the growing body of research on the application of CNNs in biomedical time-series analysis.
+***Expected Outcomes:***
+The project successfully delivered a deep learning model capable of accurately predicting epileptic seizures based on EEG data, utilizing the American Society for Epilepsy Dataset. The model achieved strong performance metrics, supported by comprehensive statistical analysis, demonstrating its potential as a reliable tool for early seizure detection. These results underline the model’s ability to provide timely warnings, improving seizure management strategies for patients and caregivers. Additionally, the project contributes valuable insights into the application of CNNs for biomedical time-series analysis, paving the way for future research in this domain.
 
 
+***Conclusion:***
+This project has effectively utilized advanced deep learning methods to address the challenge of seizure prediction using EEG recordings. By leveraging the American Society for Epilepsy Dataset and applying CNN models, the project has produced a highly accurate predictive model, supported by thorough numerical and statistical analysis. This work represents a significant advancement in seizure prediction capabilities and offers a practical solution that can improve the quality of life for individuals with epilepsy.
 
-
-
-
-
- 
+/br
+/br
  
   
 🟣 Contributors | A. Rahimi, A. Ghorbani, H. Torabi, S. Sohrabian, S. Moradi, S. Fallahnejad
