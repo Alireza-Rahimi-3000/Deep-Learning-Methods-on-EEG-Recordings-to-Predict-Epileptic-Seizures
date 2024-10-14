@@ -62,8 +62,9 @@ The project successfully delivered a deep learning model capable of accurately p
 ***Conclusion:***
 This project has effectively utilized advanced deep learning methods to address the challenge of seizure prediction using EEG recordings. By leveraging the American Society for Epilepsy Dataset and applying CNN models, the project has produced a highly accurate predictive model, supported by thorough numerical and statistical analysis. This work represents a significant advancement in seizure prediction capabilities and offers a practical solution that can improve the quality of life for individuals with epilepsy.
 
-/br
-/br
+
  
   
+#
+
 🟣 Contributors | A. Rahimi, A. Ghorbani, H. Torabi, S. Sohrabian, S. Moradi, S. Fallahnejad
