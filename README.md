@@ -1,12 +1,14 @@
 # Deep Learning Methods on EEG Recordings to Predict Epileptic Seizures
 
-Epilepsy is a neurological disorder that disturbs the brain and causes abnormal brain activity. It results in unusual behavior, sensations, and in some cases loss of awareness.     
 
-In this regard, if the seizures could be identified in their earlier stages then the patient can be provided appropriate care and treatment in time and preventing any severe damage to the patient as a whole.                  
-  
-In this project, we try to detect epilepsy using the EEG Signal Recordings and classifying them using pre-trained CNN models between preictal and interictal classes. For this, we are advocating the use of the American Society for Epilepsy Dataset. The focus is on detecting the epilepsy pattern from the EEG recordings in an accurate and timely manner.     
+# Objective:
+This project aims to leverage deep learning techniques, specifically Convolutional Neural Networks (CNNs), to predict epileptic seizures using EEG recordings. Epileptic seizures can have severe impacts on individuals' lives, making timely and accurate prediction crucial for effective intervention. The proposed approach will develop a predictive model that can identify seizure onset, offering potential improvements in seizure management and patient quality of life.
 
-The data was in .mat format which needs to be converted to images in order to implement CNN. Fourier Transform was done to convert them into images of frequency. Then resnet50, inception_resnetv2, and effcientnetb3 were implemented. The maximum accuracy achieved is 85% which was on efficientnetb3.          
+# Background:
+Epilepsy is a neurological condition characterized by recurrent seizures, which can be detected through electroencephalography (EEG) data. EEG recordings capture brain wave patterns, providing rich information that can be analyzed for signs of impending seizures. While traditional methods for seizure prediction rely on manual feature extraction and classical machine learning algorithms, deep learning offers the ability to automatically extract complex patterns from raw EEG data. CNNs, in particular, are well-suited for time-series data analysis and image-like representations, making them ideal for this task. In this project, we advocate for the use of the American Society for Epilepsy Dataset, which provides high-quality EEG recordings with detailed labeling of seizure and non-seizure events, ensuring a reliable foundation for model training and evaluation.   
+
+
  
  
   
+🟣 Contributors | A. Rahimi, A. Ghorbani, H. Torabi, S. Sohrabian, S. Moradi, S. Fallahnejad
