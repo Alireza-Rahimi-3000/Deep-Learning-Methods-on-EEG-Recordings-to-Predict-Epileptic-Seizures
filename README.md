@@ -67,4 +67,4 @@ This project has effectively utilized advanced deep learning methods to address 
   
 #
 
-🟣 Contributors | A. Rahimi, A. Ghorbani, H. Torabi, S. Sohrabian, S. Moradi, S. Fallahnejad
+***🟣 Contributors | A. Rahimi, A. Ghorbani, H. Torabi, S. Sohrabian, S. Moradi, S. Fallahnejad***
