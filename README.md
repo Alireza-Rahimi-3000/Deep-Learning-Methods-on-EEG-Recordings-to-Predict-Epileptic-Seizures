@@ -5,7 +5,7 @@
 
 This project successfully leverages deep learning techniques, specifically Convolutional Neural Networks (CNNs), to predict epileptic seizures using EEG recordings. Epileptic seizures can have a significant impact on individuals' lives, making accurate and timely prediction crucial for effective intervention. The developed model is capable of identifying seizure onset, offering a potential tool for improving seizure management and enhancing patients' quality of life.
  
-  
+   
 ***Background:***
 
 Epilepsy is a neurological disorder characterized by recurrent seizures, which can be detected through electroencephalography (EEG) data. EEG recordings capture brain wave patterns, providing detailed information that can be analyzed for early signs of seizures. Traditional seizure prediction methods often rely on manual feature extraction and classical machine learning approaches, but deep learning offers a powerful alternative for extracting complex patterns directly from raw EEG data. Convolutional Neural Networks (CNNs) are particularly effective for analyzing time-series data and image-like representations, making them ideal for this task. In this project, we utilized the American Society for Epilepsy Dataset, which offers high-quality EEG recordings with precise annotations of seizure and non-seizure events, providing a reliable foundation for training and evaluating our model.
