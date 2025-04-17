@@ -1,6 +1,6 @@
 # Deep Learning Methods on EEG Recordings to Predict Epileptic Seizures 
   
-            
+               
 ***Objective:***             
      
 This project successfully leverages deep learning techniques, specifically Convolutional Neural Networks (CNNs), to predict epileptic seizures using EEG recordings. Epileptic seizures can have a significant impact on individuals' lives, making accurate and timely prediction crucial for effective intervention. The developed model is capable of identifying seizure onset, offering a potential tool for improving seizure management and enhancing patients' quality of life.     
