@@ -1,4 +1,4 @@
-# Deep Learning Methods on EEG Recordings to Predict Epileptic Seizures 
+# Deep Learning Methods on EEG Recordings to Predict Epileptic Seizures  
       
                    
 ***Objective:***                    
